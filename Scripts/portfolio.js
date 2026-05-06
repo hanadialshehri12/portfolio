@@ -33,12 +33,12 @@
             hero_badge: "Computer Science • Full-Stack Development • Data Analytics",
             hero_title_1: "أبني حلولاً رقمية",
             hero_title_2: "تحوّل الاحتياج التشغيلي إلى نظام واضح، قابل للاستخدام، ومؤثر",
-            hero_desc: "مطورة أنظمة ومحللة بيانات أعمل على بناء حلول رقمية متكاملة من الفكرة وحتى التشغيل، مع تركيز على فهم الاحتياج، تنظيم الإجراءات، تحسين جودة البيانات، وبناء أنظمة تساعد الفرق على العمل بوضوح وكفاءة.",
+           hero_desc: "أحوّل الاحتياج التشغيلي إلى أنظمة واضحة قابلة للتشغيل، من تحليل الفكرة وتنظيم الإجراءات إلى بناء النظام وتحسين جودة البيانات.",
             hero_btn_contact: "ابدأ مشروعك معي",
             hero_btn_cases: "استعرض نماذج الحلول",
 
             metric_1: "حلول رقمية تشغيلية",
-            metric_2: "المستفيدين",
+            metric_2: "مستخدمين ومستفيدين",
             metric_3: "تطوير شامل من الفكرة للتشغيل",
 
             about_label: "نبذة مهنية",
@@ -122,12 +122,12 @@
             hero_badge: "Computer Science • Full-Stack Development • Data Analytics",
             hero_title_1: "I build digital solutions",
             hero_title_2: "that turn operational needs into clear, usable, and impactful systems",
-            hero_desc: "I am a systems developer and data analyst who builds end-to-end digital solutions from idea to operation, with a focus on understanding needs, organizing workflows, improving data quality, and building systems that help teams work with clarity and efficiency.",
+            hero_desc: "I turn operational needs into clear, usable systems — from analyzing the idea and mapping workflows to building the solution and improving data quality.",
             hero_btn_contact: "Start a Project",
             hero_btn_cases: "View Solution Samples",
 
             metric_1: "Operational digital solutions",
-            metric_2: "Beneficiaries",
+            metric_2: "Users & beneficiaries",
             metric_3: "End-to-end development",
 
             about_label: "Professional Summary",
