@@ -38,7 +38,7 @@
             hero_btn_cases: "استعرض نماذج الحلول",
 
             metric_1: "حلول رقمية تشغيلية",
-            metric_2: "فرع وجهة مستفيدة",
+            metric_2: "المستفيدين",
             metric_3: "تطوير شامل من الفكرة للتشغيل",
 
             about_label: "نبذة مهنية",
@@ -127,7 +127,7 @@
             hero_btn_cases: "View Solution Samples",
 
             metric_1: "Operational digital solutions",
-            metric_2: "Benefiting entities & branches",
+            metric_2: "Beneficiaries",
             metric_3: "End-to-end development",
 
             about_label: "Professional Summary",
